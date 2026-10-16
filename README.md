@@ -4,6 +4,7 @@ Management engineer based in Foggia, Italy. I work in public healthcare, in mana
 
 ## Projects
 
+- **[Codice Appalti QA](https://github.com/skiokk/codice-appalti-qa)**: cited answers on the Italian Public Procurement Code (D.Lgs. 36/2023) from the text in force at a chosen date. Point-in-time versions from Normattiva, hybrid search in PostgreSQL, reranking with Claude Haiku, answers with native citations from Claude Opus, and an evaluation fixed before measuring. [Live demo](https://appalti.cadimatteo.it).
 - **[Jarvis](https://github.com/skiokk/jarvis)**: a desk voice-assistant robot on an ESP32-S3. Offline wake word, speech-to-text and LLM on Groq, Azure neural voice, animated AMOLED eyes and a parametric 3D-printed case.
 
 ## Certifications
